@@ -1,11 +1,15 @@
 # CPE-322-Design-VI
  ## **For CPE 322 Class with Professor Lu**
  
-*This line is in italics*
+**About Me**
+*I am a junior at Stevens Institute of Technology*
+*I will be graduating in 2026 with a degree in Computer Engineering*
+*My technical interests include Embedded System Desging and Emulation, as well as Embedded Security and Exploitation*
 
-> This will be a block quote
 
-`print("Hello World!")  //This line has fun code`
+> "Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort." - Paul J. Meyer
+
+`I have experience in Python, C, and ARM Assembly Programming`
 
 ---
 
@@ -18,8 +22,8 @@ This list contains the specs of my new PC that I built over Christmas break
 This list contains all of my favorite activities to do on campus
 - Play Ultimate Frisbee
 - Play the violin in the Stevens Orchestra
-- Attend events for APO, the service fraternity
+- Attend events for APO, the service fraternity I am a part of
 
 This [link](https://github.com/WHines-stevens/CPE-322-Design-VI) goes to my GitHub page, which you are already on: 
 
-![This image is me playing frisbee. I didn't actually catch this disc]
+![This image is me playing frisbee.]
