@@ -1,10 +1,14 @@
 # CPE-322-Design-VI
  ## **For CPE 322 Class with Professor Lu**
- 
+
+My Project Team Website: 
+
 **About Me**
-*I am a junior at Stevens Institute of Technology*
-*I will be graduating in 2026 with a degree in Computer Engineering*
-*My technical interests include Embedded System Desging and Emulation, as well as Embedded Security and Exploitation*
+*I am a junior at Stevens Institute of Technology.* 
+
+*I will be graduating in 2026 with a degree in Computer Engineering.*
+
+*My technical interests include Embedded System Desgin and Emulation, as well as Embedded Security and Exploitation.*
 
 
 > "Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort." - Paul J. Meyer
@@ -26,4 +30,4 @@ This list contains all of my favorite activities to do on campus
 
 This [link](https://github.com/WHines-stevens/CPE-322-Design-VI) goes to my GitHub page, which you are already on: 
 
-![This image is me playing frisbee.]
+![This image is me playing frisbee.](frisbeeimage.jpg)
