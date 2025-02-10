@@ -1,7 +1,7 @@
 # CPE-322-Design-VI
  ## **For CPE 322 Class with Professor Lu**
 
-My Project Team Website: https://sites.google.com/stevens.edu/cpe-322-project-team-site
+[My Project Team Website](https://sites.google.com/stevens.edu/cpe-322-project-team-site)
 
 
 **About Me**
