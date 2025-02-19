@@ -29,6 +29,6 @@ This list contains all of my favorite activities to do on campus
 - Play the violin in the Stevens Orchestra
 - Attend events for APO, the service fraternity I am a part of
 
-This [link](https://github.com/WHines-stevens/CPE-322-Design-VI) goes to my GitHub page, which you are already on: 
+This [link](https://github.com/WHines-stevens/CPE-322-Design-VI) goes to my GitHub page, which you are already on 
 
 ![This image is me playing frisbee.](frisbeeimage.jpg)
