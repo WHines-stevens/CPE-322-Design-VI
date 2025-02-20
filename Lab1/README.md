@@ -1,15 +1,16 @@
 # Summary of Lab 1
+---
 ## Installing GHDL and GTKWave
 In order to use the programs needed to complete this lab, I decided to install and use WSL (Windows Subsystem for Linux) using the following Windows Shell command:
 
-'wsl --install'
+' wsl --install '
 
 After restarting my computer to allow Ubuntu to install and setting up my default Linux user, I ran the following commands to update my apt package manger and install both ghdl and gtkwave
 
-'''
+''' 
 sudo apt update
 sudo apt install ghdl
-sudo apt install gtkwave
+sudo apt install gtkwave 
 '''
 
 ## Writing and Testing Basic Half Adder VHDL files with GHDL
