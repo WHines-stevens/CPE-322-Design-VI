@@ -12,7 +12,7 @@ sudo apt install ghdl
 sudo apt install gtkwave 
 ```
 
-![Image of my terminal](Lab1_GHDL.png)
+![Image of my terminal](Lab1_GHDL.PNG)
 
 ## Writing and Testing Basic Half Adder VHDL files with GHDL
 In order to try using ghdl and gtkwave, I installed vscode for WSL and created a basic VHDL file for a half-adder and a testbench for said half-adder
