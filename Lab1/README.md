@@ -15,10 +15,21 @@ sudo apt install gtkwave
 ![Image of my terminal](Lab1_GHDL.PNG)
 
 ## Writing and Testing Basic Half Adder VHDL files with GHDL
-In order to try using ghdl and gtkwave, I installed vscode for WSL and created a basic VHDL file for a half-adder and a testbench for said half-adder
+In order to try using ghdl and gtkwave, I installed vscode for WSL and created a basic VHDL file for a half-adder and a testbench for said half-adder. 
 I learned that the following commands can be run in the Linux terminal to make use of ghdl's analysis and syntax checking tools
 
 ```
 ghdl -s ha_tb.vhdl  // -s tells ghdl to check the syntax of the specified VHDL code file
 ghdl -a ha.vhdl     // -a tells it to analyze the file for logical errors
 ```
+
+Once I checked the syntax and logic of my half adder files, I evaluated and ran the testbench using the following commands;
+
+```
+ghdl -e ha_tb  
+ghdl -r ha_tb
+```
+
+This is the result in my terminal
+
+![Result of running the testbench](ghdl_-e_and_-r_for_ha.PNG)
