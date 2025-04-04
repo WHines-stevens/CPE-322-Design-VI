@@ -13,9 +13,10 @@ The outputs of some of the scripts are shown below
 
 ![First few scripts](Screenshot1.PNG)
 
-In order to run the sun.py script, I had to install an additional package, which I did by running `pip install pytz`
+In order to run the sun.py script, I had to install an additional package, which I did by running `pip install pytz`.
 I then continued to run more scripts
 
 ![Next few scripts](Screenshot2.PNG)
+The cpu.py script also required an extra package called psutils, which I installed with `pip install psutils`
 ![Next few scripts](Screenshot3.PNG)
 ![Next few scripts](Screenshot4.PNG)
