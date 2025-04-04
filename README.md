@@ -14,7 +14,7 @@
 
 > "Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort." - Paul J. Meyer
 
-`I have experience in Python, C, and ARM Assembly Programming`
+`I have experience in Python, C, VHDL, Matlab, and ARM Assembly Programming`
 
 ---
 
