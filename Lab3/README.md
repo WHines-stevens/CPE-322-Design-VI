@@ -11,3 +11,11 @@ Source: [Python documentation on how to create and install to a venv](https://pa
 Once I had my virtual environment set up and all the necessary packages installed, I downloaded all the necessary python scripts from the iot repo and began running them.
 The outputs of some of the scripts are shown below
 
+![First few scripts](Screenshot1.png)
+
+In order to run the sun.py script, I had to install an additional package, which I did by running `pip install pytz`
+I then continued to run more scripts
+
+![Next few scripts](Screenshot2.png)
+![Next few scripts](Screenshot3.png)
+![Next few scripts](Screenshot4.png)
