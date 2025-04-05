@@ -12,4 +12,5 @@ A brief Google search of the error took me to [this page on Stack Overflow](http
 
 I ran the following command:  
 `sudo apt-get install pkg-config python3-dev default-libmysqlclient-dev build-essential`  
-And this allowed me to install mysqlclient with no errors
+and this allowed me to install mysqlclient with no errors
+
