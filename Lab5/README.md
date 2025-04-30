@@ -15,5 +15,5 @@ In my inital attempts for this lab, I encountered several issues with installing
 and psutil, which necessitatest the --upgrade flag and the extra installation of psutil
 
 After doing this, I was finally able to run both subcpu.py and pubcpu.py in separate terminals, resulting in the following messages about my cpu usage:  
-![terminal1](lab5ss1.PNG)
+![terminal1](Lab5ss1.PNG)
 ![terminal2](lab5ss2.PNG)
