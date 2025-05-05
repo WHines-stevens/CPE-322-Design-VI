@@ -1,3 +1,4 @@
+## Thingspeak
 I began this lab by signing up for ThingSpeak and linking my account to my pre-existing MATLAB account  
 Once I created the channel and set up the feeds as instructed, I copied my API Key.  
 
